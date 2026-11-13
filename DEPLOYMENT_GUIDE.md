@@ -58,3 +58,4 @@ Configure the following environment variables in your Render Dashboard:
 
 ## 5. Free-Tier Cold Starts Note
 On Render's free instance tier, the service spins down after 15 minutes of inactivity. The initial request may take ~30-50 seconds to boot the Node.js process. For high-stakes live examinations, an active starter/standard instance is recommended.
+

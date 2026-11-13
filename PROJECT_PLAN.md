@@ -83,3 +83,4 @@ $$\Delta \text{Trait} = \text{Final Trait Score} - \text{Baseline Trait Score} \
   - Seed 1 institution, 3 faculty, 3 courses, 25 students, curriculum, notes, attempts, and reports (`scripts/seed-demo-data.ts`).
   - Execute automated unit and integration tests.
   - Configure Render deployment blueprint (`render.yaml`).
+

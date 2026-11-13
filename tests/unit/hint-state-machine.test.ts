@@ -162,3 +162,4 @@ describe('Progressive 2-Hint State Machine', () => {
     assert.match(transition4.rejectReason || '', /already completed|exceeded/);
   });
 });
+

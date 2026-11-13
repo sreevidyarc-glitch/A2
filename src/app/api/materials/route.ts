@@ -123,3 +123,4 @@ export async function DELETE(req: NextRequest) {
   mockStore.materials = mockStore.materials.filter(m => m.id !== id);
   return NextResponse.json({ success: true, message: 'Material deleted' });
 }
+

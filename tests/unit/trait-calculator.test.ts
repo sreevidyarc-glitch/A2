@@ -112,3 +112,4 @@ describe('Academic Trait Calculator', () => {
     assert.equal(improvement.Analysis.deltaPp, 35.0);
   });
 });
+

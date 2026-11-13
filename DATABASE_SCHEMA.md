@@ -128,3 +128,4 @@ References Supabase `auth.users(id)`:
 - `practice_questions`: `id`, `intervention_id`, `question_text`, `question_type`, `options`, `correct_answer`, `explanation`
 - `practice_attempts`: `id`, `practice_question_id`, `student_id`, `student_answer`, `is_correct`, `attempted_at`
 - `progress_reports`: `id`, `course_id`, `student_id`, `baseline_assessment_id`, `final_assessment_id`, `baseline_overall_score`, `final_overall_score`, `overall_improvement_pp`, `trait_deltas`, `outcome_deltas`
+

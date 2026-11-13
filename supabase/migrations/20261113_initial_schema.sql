@@ -539,3 +539,4 @@ CREATE POLICY "Faculty view course progress reports" ON public.progress_reports
     FOR SELECT TO authenticated USING (
         EXISTS (SELECT 1 FROM public.courses WHERE courses.id = progress_reports.course_id AND courses.faculty_id = auth.uid())
     );
+

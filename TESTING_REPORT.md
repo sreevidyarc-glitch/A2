@@ -46,3 +46,4 @@ npm test
 - Command: `npm run build`
 - Next.js Version: 15.1.7+
 - Output: 18 static and dynamic routes compiled successfully with zero type or bundling errors.
+

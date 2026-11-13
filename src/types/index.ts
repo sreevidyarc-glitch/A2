@@ -316,3 +316,4 @@ export interface ProgressReport {
   student?: Profile;
   course?: Course;
 }
+

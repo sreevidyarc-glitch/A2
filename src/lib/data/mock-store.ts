@@ -824,3 +824,4 @@ export const mockStore = globalThis.__adaptiveLearnStore ?? new MemoryStore();
 if (process.env.NODE_ENV !== 'production') {
   globalThis.__adaptiveLearnStore = mockStore;
 }
+

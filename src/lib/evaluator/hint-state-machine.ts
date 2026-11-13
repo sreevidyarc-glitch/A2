@@ -128,3 +128,4 @@ export function transitionQuestionState(input: StateMachineInput): StateMachineT
     isAssisted: true,
   };
 }
+

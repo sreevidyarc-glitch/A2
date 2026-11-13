@@ -44,3 +44,4 @@ AdaptiveLearn AI protects student privacy, academic integrity, and AI secrets th
   Hint text is not stored in the student's browser bundle or local state. Hints are delivered in response payloads **only after an incorrect attempt is verified and recorded on the server**.
 - **Tampering with Marks**:
   All marks are derived by comparing the student input against the database answer key on the server. The client cannot send awarded marks.
+

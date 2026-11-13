@@ -137,3 +137,4 @@ Evaluates student practice question answer, providing immediate correctness and 
 ### `GET /api/analytics/[courseId]`
 - When called without `studentId`: Returns class averages across all 6 traits, baseline vs final comparisons, weakest traits, and candidates needing remediation.
 - When called with `?studentId=string`: Returns individual student trait deltas, percentage point growth, evidence counts, and reliability confidence.
+

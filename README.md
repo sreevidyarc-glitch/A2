@@ -97,3 +97,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - [`TESTING_REPORT.md`](./TESTING_REPORT.md) — Automated test results and validation proof.
 - [`DEPLOYMENT_GUIDE.md`](./DEPLOYMENT_GUIDE.md) — Step-by-step Render Web Service deployment guide.
 - [`supabase/migrations/20261113_initial_schema.sql`](./supabase/migrations/20261113_initial_schema.sql) — Executable Supabase migration.
+

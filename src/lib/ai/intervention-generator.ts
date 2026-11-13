@@ -175,3 +175,4 @@ Generate a comprehensive 10-point remediation package formatted as JSON matching
     ],
   };
 }
+
